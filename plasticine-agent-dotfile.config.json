@@ -1,0 +1,29 @@
+{
+  "skills": [
+    {
+      "sourceName": "github.com/larksuite/cli",
+      "skillName": "lark-doc"
+    },
+    {
+      "sourceName": "github.com/larksuite/cli",
+      "skillName": "lark-whiteboard"
+    },
+    {
+      "sourceName": "github.com/larksuite/cli",
+      "skillName": "lark-wiki"
+    },
+    {
+      "sourceName": "github.com/larksuite/cli",
+      "skillName": "lark-shared"
+    },
+    {
+      "sourceName": "github.com/Plasticine-Yang/plasticine-agent-dotfile",
+      "skillName": "plasticine-agent-dotfile"
+    }
+  ],
+  "claudeCodePlugins": [
+    {
+      "packageName": "superpowers@claude-plugins-official"
+    }
+  ]
+}
