@@ -11,10 +11,6 @@
     {
       "sourceName": "https://github.com/vercel-labs/agent-browser",
       "skillName": "agent-browser"
-    },
-    {
-      "sourceName": "https://github.com/tw93/waza",
-      "skillName": "waza"
     }
   ],
   "claudeCodePlugins": [
